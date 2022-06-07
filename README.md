@@ -4,9 +4,8 @@
 - 📫 How to reach me? heh, dont im introvert
 
 
-ALSO I LOVE MARVEL LETSGO
 
-and i fucking love Coraline
+and i love Coraline
 
 <!---
 dobbyasas/dobbyasas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
