@@ -1,10 +1,10 @@
 ## Technologies
 
-[![My Technologies](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=react,unity)](https://skillicons.dev)
 
 ## Languages
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,c#)](https://skillicons.dev)
 
 ## Tools
 
