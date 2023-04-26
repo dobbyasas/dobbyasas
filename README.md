@@ -1,9 +1,11 @@
-### Hi there 👋
+## Technologies
 
-<!--
-**dobbyasas/dobbyasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Technologies](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c#)](https://skillicons.dev)
--->
+[![My Languages](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+## Tools
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,discord,git,github,stackoverflow,codepen,)](https://skillicons.dev)
