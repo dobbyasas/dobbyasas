@@ -1,6 +1,6 @@
 ## Technologies
 
-[![My Technologies](https://skillicons.dev/icons?i=react,unity,gradle,maven)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=react,unity,gradle,maven,bootstrap)](https://skillicons.dev)
 
 ## Languages
 
