@@ -4,7 +4,7 @@
 
 ## Languages
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,js,cs,py,java,mysql)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,cs,py,java,mysql,sass)](https://skillicons.dev)
 
 ## Tools
 
