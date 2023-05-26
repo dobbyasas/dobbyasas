@@ -1,11 +1,11 @@
 ## Technologies
 
-[![My Technologies](https://skillicons.dev/icons?i=react,gradle,maven,bootstrap)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=reactbootstrap,vite,yarn,gradle,maven,)](https://skillicons.dev)
 
 ## Languages
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,sass,js,cs,py,java,mysql)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,sass,mysql,js,cs,py,java)](https://skillicons.dev)
 
 ## Tools
 
-[![My Tools](https://skillicons.dev/icons?i=idea,vscode,unity,discord,git,github,stackoverflow,codepen)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=idea,vscode,unity,stackoverflow,codepen,git,github,discord)](https://skillicons.dev)
