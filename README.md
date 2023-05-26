@@ -1,6 +1,6 @@
 ## Technologies
 
-[![My Technologies](https://skillicons.dev/icons?i=reactbootstrap,vite,yarn,gradle,maven,)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=react,bootstrap,vite,gradle,maven,)](https://skillicons.dev)
 
 ## Languages
 
