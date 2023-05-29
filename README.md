@@ -4,4 +4,4 @@
 
 ## Game development
 
-[![My Tools](https://skillicons.dev/icons?i=unity,visualstudio,cs)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=cs,unity,visualstudio)](https://skillicons.dev)
