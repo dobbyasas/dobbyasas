@@ -1,15 +1,7 @@
-## Technologies
+## Web development
 
-[![My Technologies](https://skillicons.dev/icons?i=react,bootstrap,vite,gradle,maven,nodejs)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=html,css,sass,mysql,js,react,bootstrap,vite,nodejs,vscode)](https://skillicons.dev)
 
-## Languages
+## Game development
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,sass,mysql,js,cs,py,java)](https://skillicons.dev)
-
-## Tools
-
-[![My Tools](https://skillicons.dev/icons?i=idea,vscode,unity,ableton,stackoverflow,codepen,git,github)](https://skillicons.dev)
-
-## Communication
-
-[![My Tools](https://skillicons.dev/icons?i=instagram,discord)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=unity,visualstudio,cs)](https://skillicons.dev)
