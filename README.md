@@ -10,6 +10,6 @@
 
 [![My Tools](https://skillicons.dev/icons?i=idea,vscode,unity,ableton,stackoverflow,codepen,git,github)](https://skillicons.dev)
 
-## Comunication
+## communication
 
 [![My Tools](https://skillicons.dev/icons?i=instagram,discord)](https://skillicons.dev)
