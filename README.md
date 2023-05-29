@@ -1,6 +1,6 @@
 ## Technologies
 
-[![My Technologies](https://skillicons.dev/icons?i=react,bootstrap,vite,gradle,maven,)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=react,bootstrap,vite,gradle,maven,nodejs)](https://skillicons.dev)
 
 ## Languages
 
@@ -8,4 +8,8 @@
 
 ## Tools
 
-[![My Tools](https://skillicons.dev/icons?i=idea,vscode,unity,ableton,stackoverflow,codepen,git,github,discord)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=idea,vscode,unity,ableton,stackoverflow,codepen,git,github)](https://skillicons.dev)
+
+## Comunication
+
+[![My Tools](https://skillicons.dev/icons?i=instagram,discord)](https://skillicons.dev)
