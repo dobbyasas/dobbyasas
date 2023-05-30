@@ -5,5 +5,5 @@
 
 ## Web development
 
-[![My Technologies](https://skillicons.dev/icons?i=html,css,sass,bootstrap,mysql,js,react,vite,nodejs,vscode)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=html,css,sass,bootstrap,mysql,js,react,nodejs,vscode)](https://skillicons.dev)
 
