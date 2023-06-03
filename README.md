@@ -9,4 +9,4 @@
 
 ## Socials and fun
 devto
-[![My Technologies](https://skillicons.dev/icons?i=devto,discord,instagram,ai,)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=devto,discord,instagram,ai)](https://skillicons.dev)
