@@ -13,7 +13,7 @@
 
 ## Socials and fun
 
-[![Socials and fun](https://skillicons.dev/icons?i=devto,discord,instagram,ai)](https://skillicons.dev)
+[![Socials and fun](https://skillicons.dev/icons?i=instagram,discord,devto,ai)](https://skillicons.dev)
 
 ## ...and I also do music lol
 
