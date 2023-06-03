@@ -10,3 +10,7 @@
 ## Socials and fun
 
 [![My Technologies](https://skillicons.dev/icons?i=devto,discord,instagram,ai)](https://skillicons.dev)
+
+## ...and i also do music lol
+
+[![My Technologies](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
