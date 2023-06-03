@@ -4,7 +4,7 @@
 
 ## Game development
 
-[![My Tools For Game development](https://skillicons.dev/icons?i=unity,visualstudio)](https://skillicons.dev)
+[![My Tools For Game development](https://skillicons.dev/icons?i=unity,blender,visualstudio)](https://skillicons.dev)
 
 ## Web development
 
