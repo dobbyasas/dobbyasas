@@ -1,11 +1,15 @@
+## Languages
+
+[![My Languages](https://skillicons.dev/icons?i=cs,html,css,sass,mysql,js)](https://skillicons.dev)
+
 ## Game development
 
-[![My Tools For Game development](https://skillicons.dev/icons?i=cs,unity,visualstudio)](https://skillicons.dev)
+[![My Tools For Game development](https://skillicons.dev/icons?i=unity,visualstudio)](https://skillicons.dev)
 
 
 ## Web development
 
-[![My Tools for Web development](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,mysql,js,react,vite,vscode,rabbitmq,netlify)](https://skillicons.dev)
+[![My Tools for Web development](https://skillicons.dev/icons?i=figma,bootstrap,react,vite,vscode,rabbitmq,netlify)](https://skillicons.dev)
 
 ## Socials and fun
 
