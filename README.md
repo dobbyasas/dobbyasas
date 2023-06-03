@@ -1,6 +1,6 @@
 ## Languages
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,sass,js,cs,javafx,swift)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,sass,js,cs,java,swift)](https://skillicons.dev)
 
 ## Game development
 
