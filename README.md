@@ -12,7 +12,7 @@
 
 ## Development tools
 
-[![My Development tools](https://skillicons.dev/icons?i=figma,vscode,git,codepen,maven)](https://skillicons.dev)
+[![My Development tools](https://skillicons.dev/icons?i=figma,vscode,idea,git,codepen,maven)](https://skillicons.dev)
 
 ## Socials and fun
 
