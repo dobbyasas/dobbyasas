@@ -11,6 +11,6 @@
 
 [![Socials and fun](https://skillicons.dev/icons?i=devto,discord,instagram,ai)](https://skillicons.dev)
 
-## ...and i also do music lol
+## ...and I also do music lol
 
 [![Music](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
