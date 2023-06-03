@@ -8,5 +8,5 @@
 [![My Technologies](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,mysql,js,react,nodejs,vscode,netlify)](https://skillicons.dev)
 
 ## Socials and fun
-devto
+
 [![My Technologies](https://skillicons.dev/icons?i=devto,discord,instagram,ai)](https://skillicons.dev)
