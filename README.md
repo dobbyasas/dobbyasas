@@ -10,13 +10,13 @@
 
 [![My Tools for Web development](https://skillicons.dev/icons?i=react,vite,nodejs,rabbitmq,bootstrap,mysql,netlify)](https://skillicons.dev)
 
-## Development tools
+## Development tools & Technologies
 
-[![My Development tools](https://skillicons.dev/icons?i=figma,vscode,idea,git,codepen,maven)](https://skillicons.dev)
+[![My Development tools](https://skillicons.dev/icons?i=figma,vscode,idea,git,codepen,maven,linux)](https://skillicons.dev)
 
 ## Socials and fun
 
-[![Socials and fun](https://skillicons.dev/icons?i=instagram,discord,github,gitlab,devto,ai,linkedin)](https://skillicons.dev)
+[![Socials and fun](https://skillicons.dev/icons?i=instagram,discord,github,gitlab,devto,linkedin,twitter)](https://skillicons.dev)
 
 ## ...and I also do music lol
 
