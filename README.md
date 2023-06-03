@@ -6,10 +6,13 @@
 
 [![My Tools For Game development](https://skillicons.dev/icons?i=unity,visualstudio)](https://skillicons.dev)
 
-
 ## Web development
 
-[![My Tools for Web development](https://skillicons.dev/icons?i=figma,react,vite,nodejs,rabbitmq,bootstrap,mysql,vscode,netlify)](https://skillicons.dev)
+[![My Tools for Web development](https://skillicons.dev/icons?i=react,vite,nodejs,rabbitmq,bootstrap,mysql,netlify)](https://skillicons.dev)
+
+## Development tools
+
+[![My Development tools](https://skillicons.dev/icons?i=figma,vscode,git)](https://skillicons.dev)
 
 ## Socials and fun
 
