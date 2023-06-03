@@ -5,7 +5,7 @@
 
 ## Web development
 
-[![My Tools for Web development](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,mysql,js,react,vscode,rabbitmq,netlify)](https://skillicons.dev)
+[![My Tools for Web development](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,mysql,js,react,vite,vscode,rabbitmq,netlify)](https://skillicons.dev)
 
 ## Socials and fun
 
