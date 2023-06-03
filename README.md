@@ -9,7 +9,7 @@
 
 ## Web development
 
-[![My Tools for Web development](https://skillicons.dev/icons?i=figma,bootstrap,react,vite,vscode,rabbitmq,,mysqlnetlify)](https://skillicons.dev)
+[![My Tools for Web development](https://skillicons.dev/icons?i=figma,react,vite,nodejs,rabbitmq,bootstrap,mysql,vscode,netlify)](https://skillicons.dev)
 
 ## Socials and fun
 
