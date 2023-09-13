@@ -14,10 +14,6 @@
 
 [![My Development tools](https://skillicons.dev/icons?i=figma,vscode,idea,git,codepen,maven,gradle,linux)](https://skillicons.dev)
 
-## Socials and fun
-
-[![Socials and fun](https://skillicons.dev/icons?i=instagram,discord,github,gitlab,devto,linkedin,twitter)](https://skillicons.dev)
-
 ## ...and I also do music lol
 
 [![Music](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
