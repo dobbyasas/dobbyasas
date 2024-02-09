@@ -14,7 +14,7 @@
 
 ## Development tools & Technologies
 
-[![My Development tools](https://skillicons.dev/icons?i=figma,vscode,xcode,idea,git,codepen,maven,gradle,linux)](https://skillicons.dev)
+[![My Development tools](https://skillicons.dev/icons?i=figma,vscode,idea,git,codepen,maven,gradle,linux)](https://skillicons.dev)
 
 ## ...and I also do music lol
 
