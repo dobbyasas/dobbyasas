@@ -1,4 +1,5 @@
-[![wakatime](https://wakatime.com/badge/user/018d8a75-ed46-4bd7-9f72-197e87f38c18/project/018d8a76-c89d-4ab2-89a3-f16fbb853860.svg)](https://wakatime.com/badge/user/018d8a75-ed46-4bd7-9f72-197e87f38c18/project/018d8a76-c89d-4ab2-89a3-f16fbb853860)
+## Time spend fucking around:
+[![wakatime](https://wakatime.com/badge/user/018d8a75-ed46-4bd7-9f72-197e87f38c18.svg)](https://wakatime.com/@018d8a75-ed46-4bd7-9f72-197e87f38c18)
 
 ## Languages
 
