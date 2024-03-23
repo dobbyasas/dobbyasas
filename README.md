@@ -10,7 +10,7 @@
 
 ## Web development
 
-[![My Tools for Web development](https://skillicons.dev/icons?i=react,vite,nodejs,rabbitmq,bootstrap,mysql,netlify)](https://skillicons.dev)
+[![My Tools for Web development](https://skillicons.dev/icons?i=angular,react,vite,nodejs,rabbitmq,bootstrap,mysql,netlify)](https://skillicons.dev)
 
 ## Development tools & Technologies
 
